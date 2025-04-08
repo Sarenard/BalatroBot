@@ -1,3 +1,10 @@
+## BOT STUFF
+
+database
+*/config_private.json
+
+## PYTHON STUFF
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
